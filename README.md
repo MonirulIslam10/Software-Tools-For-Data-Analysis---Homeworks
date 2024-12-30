@@ -1,1 +1,1 @@
-Completion of the attached homework demonstrates the utilization of tidyverse / dplyr packages on R, graphs with ggplot and reporting with Rmarkdown, maps, web scraping, statistical inferencing, and a bit of machine learning.
+Completion of the attached assignments demonstrates the utilization of tidyverse / dplyr packages on R, graphs with ggplot and reporting with Rmarkdown, maps, web-scraping, statistical inferencing, and machine learning. 
